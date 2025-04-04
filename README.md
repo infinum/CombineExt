@@ -1,5 +1,7 @@
 # CombineExt
 
+> This fork of the main CombineExt repo was created to fix the memory leak which was happening when using `PassthroughRelay`s. The fix is based on [this PR](https://github.com/CombineCommunity/CombineExt/pull/168/files), but since the original library is no longer maintained we decided to fork it on our own repo and apply the fix here.
+
 <p align="center">
 <img src="https://github.com/CombineCommunity/CombineExt/raw/main/Resources/logo.png" width="45%">
 <br /><br />
